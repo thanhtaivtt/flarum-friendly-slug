@@ -1,0 +1,20 @@
+{
+  "name": "thanhtai/flarum-friendly-slug",
+  "description": "Make friendly slug in flarum",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "thanhtaivtt",
+      "email": "thanhtai96nd@gmail.com"
+    }
+  ],
+  "require": {
+    "flarum/core": "^0.1.0-beta.8"
+  },
+  "autoload": {
+    "psr-4": {
+      "Thanhtaivtt\\FriendlySlug\\": "src/"
+    }
+  }
+}
