@@ -16,5 +16,13 @@
     "psr-4": {
       "Thanhtaivtt\\FriendlySlug\\": "src/"
     }
-  }
+  },
+  "extra": {
+        "branch-alias": {
+            "dev-master": "0.1.x-dev"
+        },
+        "flarum-extension": {
+            "title": "Flarum URL friendly",
+        }
+    }
 }
